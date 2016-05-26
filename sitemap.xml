@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
+
   <url>
     <loc>https://jsaari.com/</loc>
-    <lastmod>2016-04-26T15:17:21+03:00</lastmod>
-    <priority>0</priority>
+    <priority>1</priority>
   </url>
+  <url>
+    <loc>https://jsaari.com/project/</loc>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://jsaari.com/about/</loc>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://jsaari.com/contact/</loc>
+    <priority>0.75</priority>
+  </url>
+  
   
   <url>
     <loc>https://jsaari.com/project/project14/</loc>
