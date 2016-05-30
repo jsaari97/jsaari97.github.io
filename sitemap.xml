@@ -7,81 +7,16 @@
   </url>
   <url>
     <loc>https://jsaari.com/project/</loc>
-    <priority>0.75</priority>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://jsaari.com/about/</loc>
-    <priority>0.75</priority>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://jsaari.com/contact/</loc>
-    <priority>0.75</priority>
+    <priority>0.5</priority>
   </url>
   
-  
-  <url>
-    <loc>https://jsaari.com/project/project14/</loc>
-    <lastmod>2016-04-26T15:17:21+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jsaari.com/project/project13/</loc>
-    <lastmod>2016-04-26T15:17:19+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jsaari.com/project/project12/</loc>
-    <lastmod>2016-04-26T15:17:16+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jsaari.com/project/project11/</loc>
-    <lastmod>2016-04-26T14:29:24+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jsaari.com/project/project10/</loc>
-    <lastmod>2016-04-26T14:29:20+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jsaari.com/project/project09/</loc>
-    <lastmod>2016-04-26T14:29:12+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jsaari.com/project/project08/</loc>
-    <lastmod>2016-04-26T14:29:06+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jsaari.com/project/project06/</loc>
-    <lastmod>2016-04-24T23:39:38+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jsaari.com/project/project05/</loc>
-    <lastmod>2016-04-24T23:33:31+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jsaari.com/project/project04/</loc>
-    <lastmod>2016-04-24T23:33:28+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jsaari.com/project/project03/</loc>
-    <lastmod>2016-04-24T23:33:25+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jsaari.com/project/project02/</loc>
-    <lastmod>2016-04-24T23:33:22+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jsaari.com/project/project01/</loc>
-    <lastmod>2016-04-24T16:35:32+03:00</lastmod>
-  </url>
   
 </urlset>
